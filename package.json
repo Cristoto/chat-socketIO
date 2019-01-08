@@ -1,0 +1,36 @@
+{
+    "name": "chat-socketio",
+    "version": "0.0.1",
+    "description": "Chat on real time using Socket.IO",
+    "main": "src/index.js",
+    "scripts": {
+        "dev": "nodemon src/index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cristoto/chat-socketio.git"
+    },
+    "keywords": [
+        "chat",
+        "socket.io",
+        "nodejs",
+        "javascript",
+        "js"
+    ],
+    "author": "Cristo M. Estévez Hernández",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cristoto/chat-socketio/issues"
+    },
+    "homepage": "https://github.com/Cristoto/chat-socketio#readme",
+    "dependencies": {
+        "express": "^4.16.4",
+        "express-handlebars": "^3.0.0",
+        "hbs": "^4.0.1",
+        "morgan": "^1.9.1",
+        "socket.io": "^2.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.9"
+    }
+}
