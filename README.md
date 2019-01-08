@@ -2,13 +2,13 @@
 
 Basic chat using the module Socket.IO and NodeJS
 
-# Requirements
+## Requirements
 
 To use this program or modify it, you need [node](https://nodejs.org/es/) on your system and install all dependencies.
 
 
 
-# Quick start
+## Quick start
 
 The following commands install all necesaries dependencies.
 
